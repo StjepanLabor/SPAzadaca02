@@ -1,0 +1,5 @@
+﻿  game_of_life.cpp
+C:\Users\labor\OneDrive\SPA zadaca\GameOFLife\GameOFLife\game_of_life.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  program.cpp
+  Generating Code...
+  GameOFLife.vcxproj -> C:\Users\labor\OneDrive\SPA zadaca\GameOFLife\x64\Debug\GameOFLife.exe
